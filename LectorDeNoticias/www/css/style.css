@@ -1,0 +1,14 @@
+
+/* los ID van con almohadilla id="caja_estructura" */
+#caja_estructura {
+    background-color: gray;
+}
+
+/* las clases van con .  class="panel" */
+.panel {
+    background-color: rgb(165, 241, 158);
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+}
+
